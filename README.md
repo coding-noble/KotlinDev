@@ -6,7 +6,7 @@ In this project, the focus was on leveraging Kotlin for backend functionality. T
 
 My purpose for developing this software was to enhance my skills in Kotlin programming and gain experience in creating desktop applications using IntelliJ IDEA. This project allowed me to explore various aspects of software development, including user interface design, data management, and application functionality.
 
-[Software Demo Video](https://youtu.be/OxliRa_1QhQ)
+[Software Demo Video](https://youtu.be/Yq6bPvh62cM)
 
 # Development Environment
 
